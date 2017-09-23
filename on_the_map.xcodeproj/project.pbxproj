@@ -12,6 +12,7 @@
 		4184E5261F761C2B003B0A10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4184E5241F761C2B003B0A10 /* Main.storyboard */; };
 		4184E5281F761C2B003B0A10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4184E5271F761C2B003B0A10 /* Assets.xcassets */; };
 		4184E52B1F761C2B003B0A10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4184E5291F761C2B003B0A10 /* LaunchScreen.storyboard */; };
+		41B89E9B1F77110700882DB2 /* mapfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B89E9A1F77110700882DB2 /* mapfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4184E5271F761C2B003B0A10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4184E52A1F761C2B003B0A10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4184E52C1F761C2B003B0A10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41B89E9A1F77110700882DB2 /* mapfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mapfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4184E5201F761C2B003B0A10 /* AppDelegate.swift */,
 				4184E5221F761C2B003B0A10 /* ViewController.swift */,
 				4184E5241F761C2B003B0A10 /* Main.storyboard */,
+				41B89E9A1F77110700882DB2 /* mapfile.swift */,
 				4184E5271F761C2B003B0A10 /* Assets.xcassets */,
 				4184E5291F761C2B003B0A10 /* LaunchScreen.storyboard */,
 				4184E52C1F761C2B003B0A10 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				4184E5231F761C2B003B0A10 /* ViewController.swift in Sources */,
 				4184E5211F761C2B003B0A10 /* AppDelegate.swift in Sources */,
+				41B89E9B1F77110700882DB2 /* mapfile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
